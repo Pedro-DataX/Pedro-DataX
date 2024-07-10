@@ -1,12 +1,14 @@
-<h1 align="center">
+---
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=1000&pause=2000&color=0B41BD&center=true&vCenter=true&random=false&width=500&height=70&lines=Ol%C3%A1%F0%9F%91%8B;Me+chamo+Pedro+Xavier" />
-</h1>
+</p>
 
+---
 <h2 align="center">Apaixonado por Ciência e Análise de Dados</h2>
 <br>
 
 <p align="center"> 
-  🌱 Atualmente estou estudando __Python e Machine Learning__ 
+ Atualmente estou estudando __Python e Machine Learning__ 
 </p>
 
 ##
@@ -28,28 +30,24 @@
 
 <br>
 
-##
+---
 
 <p align="center">
-<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=4000&pause=2000&color=0B41BD&center=true&vCenter=true&repeat=false&random=false&width=500&height=70&lines=%F0%9F%A7%B0Minhas+ferramentas+e+linguagens%F0%9F%A7%B0"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=4000&pause=2000&color=0B41BD&center=true&vCenter=true&repeat=false&random=false&width=500&height=70&lines=%F0%9F%A7%B0Minhas+ferramentas+e+linguagens%F0%9F%A7%B0" alt="Typing SVG"" />
 </p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,figma,py,mysql" />
+  <img src="https://skillicons.dev/icons?i=github,git,figma,py,mysql,vscode" />
   <img alt="Powerbi" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
 </div>
 
-<br>
 
+---
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=4000&pause=2000&color=550B68&center=true&vCenter=true&random=false&width=500&height=70&lines=%F0%9F%93%8AAlguns+de+meus+projetos%F0%9F%93%8A" />
+</p>
 
-<h1 align="left">📊Últimos projetos:</h1>
-<img  
-  height="187,75"
-  width="300" 
-  align="left" 
-  alt="Figma"
-  style="padding-right:10px;" 
-  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
-
-
+<p align="center">
+--aqui ficara o link do portifólio--
+</p>
 
 
