@@ -50,6 +50,5 @@
 --aqui ficara o link do portifólio--
 </p>
 
-
-![snake gif](https://github.com/Pedro-DataX/Pedro-DataX/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Pedro-DataX/Pedro-DataX/blob/output/github-contribution-grid-snake.gif)
 
