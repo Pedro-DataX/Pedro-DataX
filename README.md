@@ -16,6 +16,13 @@
 ##
 
 <h1 align="left">📊Últimos projetos:</h1>
+<img  
+  height="187,75"
+  width="300" 
+  align="left" 
+  alt="Figma"
+  style="padding-right:10px;" 
+  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
 
 
 
