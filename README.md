@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
---aqui ficara o link do portifólio--
+--aqui ficará o link do portifólio--
 </p>
 
 
