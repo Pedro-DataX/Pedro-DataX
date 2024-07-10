@@ -14,7 +14,7 @@
 ##
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=2000&color=710E8A&center=true&vCenter=true&repeat=false&random=false&width=500&height=70&lines=Voc%C3%AA+me+acha+por+aqui" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=4000&pause=2000&color=710E8A&center=true&vCenter=true&repeat=false&random=false&width=800&height=70&lines=Voc%C3%AA+pode+me+achar+clicando+em+um+dos+dois+abaixo" />
 </p>
 
 <p align="center">
