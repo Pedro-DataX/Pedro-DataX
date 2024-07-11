@@ -4,7 +4,7 @@
 </p>
 
 ---
-<h2 align="center">Apaixonado por Ciência e Análise de Dados</h2>
+<h2 align="center">Apaixonado por Ciência, SQL, Análise de Dados</h2>
 <br>
 
 <p align="center"> 
