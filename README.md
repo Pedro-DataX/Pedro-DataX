@@ -8,7 +8,7 @@
 <br>
 
 <p align="center"> 
- Atualmente estou estudando Python, SQL e Machine Learnin
+ Atualmente estou estudando Python, SQL e Machine Learning
 </p>
 
 ##
