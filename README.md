@@ -4,11 +4,11 @@
 </p>
 
 ---
-<h2 align="center">Apaixonado por Ciência, SQL, Análise de Dados</h2>
+<h2 align="center">Apaixonado por Ciência, Análise de Dados</h2>
 <br>
 
 <p align="center"> 
- Atualmente estou estudando __Python e Machine Learning__ 
+ Atualmente estou estudando Python, SQL e Machine Learnin
 </p>
 
 ##
