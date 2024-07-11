@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
---aqui ficará o link do portifólio--
+<a href="https://pedrohenriquereisx.wixstudio.io/myportfolio"> Acesse meu portifólio clicando aqui </a>
 </p>
 
 
